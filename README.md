@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Master Thesis ```Cloud-based IoT as a Service```
-- 🌱 I’m currently learning IoT, GOlang, Elixir and many other stuff
+- 🌱 I’m currently learning IoT, Golang, Elixir and many other stuff
 - ⚡ Fun fact: I play center for my hometown basketball team
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartins11&layout=compact&bg_color=30,ffffff,99ccff)](https://github.com/AnaNeri/github-readme-stats)
