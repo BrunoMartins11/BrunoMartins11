@@ -3,7 +3,7 @@
 <!--
 **BrunoMartins11/BrunoMartins11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+Here are some facts about me:
 
 - 🔭 I’m currently working on my Master Thesis ```Cloud-based IoT as a Service```
 - 🌱 I’m currently learning IoT, Golang, Elixir and many other stuff
