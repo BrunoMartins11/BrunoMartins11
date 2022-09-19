@@ -5,8 +5,8 @@
 -->
 Here are some facts about me:
 
-- 🔭 I’m currently working on my Master Thesis ```Cloud-based IoT as a Service```
-- 🌱 I’m currently learning IoT, Golang, Elixir and many other stuff
-- ⚡ Fun fact: I play center for my hometown basketball team
+- 🔭 I'm a Software Engineer working at @saltpay.
+- 🌱 I’m currently learning Golang, Kubernetes and a bunch of other stuff.
+- ⚡ Fun fact: I used to play center for my hometown basketball team
 
 ![BrunoMartins11's github stats](https://github-readme-stats.vercel.app/api?username=BrunoMartins11&count_private=true&show_icons=true&theme=dracula)
